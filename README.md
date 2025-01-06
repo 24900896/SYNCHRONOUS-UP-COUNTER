@@ -51,7 +51,7 @@ confirm that the counter increments its value synchronously at each clock pulse.
 
 **RTL LOGIC UP COUNTER**
 
-![image](https://github.com/user-attachments/assets/b490ff3c-f640-422c-8229-70358da223e0)
+![image](https://github.com/user-attachments/assets/52f2c5d1-1c03-4bbd-b124-af5d9f3ccd07)
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
