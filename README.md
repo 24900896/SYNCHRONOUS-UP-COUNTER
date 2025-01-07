@@ -55,8 +55,7 @@ confirm that the counter increments its value synchronously at each clock pulse.
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![7898](https://github.com/user-attachments/assets/4f35e1fd-35da-4320-997f-949fc852c0ad)
-
+![999](https://github.com/user-attachments/assets/488c160b-1aa1-42e9-96f3-c1f498516b11)
 
 **TRUTH TABLE**
 
